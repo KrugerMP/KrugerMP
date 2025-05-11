@@ -20,8 +20,6 @@ I'm a passionate **Software Developer** currently working at [DirectTransact](ht
 
 ---
 
----
-
 #### 🏡 Current project idea's
 
 - 🕶️ Using [TailScale API's](https://tailscale.com/kb/1101/api), i want to monitor all devices connected and report on any devices that have not been connected for longer than 5min. Written in GO.
