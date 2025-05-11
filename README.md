@@ -111,4 +111,5 @@ I’ve spent a significant amount of time architecting, deploying, and securing 
 ---
 
 Feel free to connect or reach out!
+
 (Yes i used a bit of ChatGPT to help me write this, im not super creative 😉)
